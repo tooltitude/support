@@ -1,9 +1,36 @@
-# Support repository
+# Tooltitude VS Code Extension
 
-This repository is created to support users of Tooltitude products https://www.tooltitude.com/
+Tooltitude is a productivity extension for the Go programming language. It helps you write better
+code faster. Here's are some highlights of its features
 
-If you have any issues, suggestions, or other feedback. Feel free to create an issue, and we will do our best to help you.
+## Code Actions
 
-## Legal
+### Handle Error
+<p>
+<img src="images/HandleError-start.png" alt="handle error code action demo start" width="400">
+<img src="images/HandleError-end.png" alt="handle error code action demo end" width="400">
+</p>
 
-By submitting issues, or commenting on existing issues in this repository you grant a perpetual, irrevocable, worldwide license to use any Feedback (as defined below) you communicate to the owner of this repository, without compensation, without any obligation to report on such use, and without any other restriction. The repository owners rights granted in the previous sentence include, without limitation, the right to exploit Feedback in any and every way, as well as the right to grant sublicenses. Feedback will not be considered Customer’s Confidential Information. (“Feedback” refers to any suggestion or idea for modifying any of the repository owners products or services, including without limitation all intellectual property rights in any such suggestion or idea.)
+### Apply De Morgan Laws
+<p>
+<img src="images/DeMorgan-start.png" alt="apply De Morgan laws code action demo start" width="400">
+<img src="images/DeMorgan-end.png" alt="apply De Morgan laws code action demo end" width="400">
+</p>
+
+### Iterate Over Collection
+<p>
+<img src="images/IterateOver-start.png" alt="iterate over collection code action demo start" width="400">
+<img src="images/IterateOver-end.png" alt="iterate over collection code action demo end" width="400">
+</p>
+
+We have more than 15 code actions in addition to these highlights. Install the extension, and try it for yourself or read more on https://www.tooltitude.com/
+
+## Support Resources
+
+* You could ask for help or suggest a feature by creating an issue in this repository: https://github.com/tooltitude/support/issues/new/choose
+* You could join our Discord community: https://discord.gg/f9MHBXsVwr
+
+## Other Links
+
+* Visit our site: https://www.tooltitude.com/
+* Follow us on Twitter: https://twitter.com/tooltitude
