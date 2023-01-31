@@ -7,20 +7,20 @@ code faster. Here's are some highlights of its features
 
 ### Handle Error
 <p>
-<img src="images/HandleError-start.png" alt="handle error code action demo start" width="400">
-<img src="images/HandleError-end.png" alt="handle error code action demo end" width="400">
+<img src="images/HandleError-start.png" alt="handle error code action demo start" width="400" style="padding: 2px">
+<img src="images/HandleError-end.png" alt="handle error code action demo end" width="400" style="padding: 2px">
 </p>
 
 ### Apply De Morgan Laws
 <p>
-<img src="images/DeMorgan-start.png" alt="apply De Morgan laws code action demo start" width="400">
-<img src="images/DeMorgan-end.png" alt="apply De Morgan laws code action demo end" width="400">
+<img src="images/DeMorgan-start.png" alt="apply De Morgan laws code action demo start" width="400" style="padding: 2px">
+<img src="images/DeMorgan-end.png" alt="apply De Morgan laws code action demo end" width="400" style="padding: 2px">
 </p>
 
 ### Iterate Over Collection
 <p>
-<img src="images/IterateOver-start.png" alt="iterate over collection code action demo start" width="400">
-<img src="images/IterateOver-end.png" alt="iterate over collection code action demo end" width="400">
+<img src="images/IterateOver-start.png" alt="iterate over collection code action demo start" width="400" style="padding: 2px">
+<img src="images/IterateOver-end.png" alt="iterate over collection code action demo end" width="400" style="padding: 2px">
 </p>
 
 We have more than 15 code actions in addition to these highlights. Install the extension, and try it for yourself or read more on https://www.tooltitude.com/
