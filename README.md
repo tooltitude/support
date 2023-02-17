@@ -4,6 +4,25 @@ Tooltitude is a productivity extension for the Go programming language. It helps
 code faster. Here's are some highlights of its features
 
 ## Code Actions
+We have more than 20 code actions (and counting). To use code action, put a caret on an applicable code element. If there're code actions, a light bulb icon will apear. You could click on it with a mouse, press Ctrl+. (on Windows and Linux) or Cmd+. (on Mac). The menu will appear where you choose actions. Actions from this extension have (tt) market on the right to distinguish them from code actions from other extensions.
+
+Here're some highlights:
+
+### See number of references
+<p>
+<img src="images/RefsLens.png" alt="see number of references" width="400" style="padding: 2px">
+</p>
+
+
+### See deprecated symbols
+<p>
+<img src="images/Deprecated.png" alt="see deprecated symbols" width="400" style="padding: 2px">
+</p>
+
+### See shadowed symbols
+<p>
+<img src="images/Shadows.png" alt="see shadowed symbols" width="400" style="padding: 2px">
+</p>
 
 ### Handle Error
 <p>
@@ -11,19 +30,8 @@ code faster. Here's are some highlights of its features
 <img src="images/HandleError-end.png" alt="handle error code action demo end" width="400" style="padding: 2px">
 </p>
 
-### Apply De Morgan Laws
-<p>
-<img src="images/DeMorgan-start.png" alt="apply De Morgan laws code action demo start" width="400" style="padding: 2px">
-<img src="images/DeMorgan-end.png" alt="apply De Morgan laws code action demo end" width="400" style="padding: 2px">
-</p>
 
-### Iterate Over Collection
-<p>
-<img src="images/IterateOver-start.png" alt="iterate over collection code action demo start" width="400" style="padding: 2px">
-<img src="images/IterateOver-end.png" alt="iterate over collection code action demo end" width="400" style="padding: 2px">
-</p>
-
-We have more than 15 code actions in addition to these highlights. Install the extension, and try it for yourself or read more on https://www.tooltitude.com/
+We have more than 20 code actions in addition to these highlights. Install the extension, and try it for yourself or read more on https://www.tooltitude.com/
 
 ## Support Resources
 
