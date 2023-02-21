@@ -69,6 +69,9 @@ We have more than 20 code actions (and counting). To use code action, put a care
   - Split field
   - Merge imports
 
+## Data
+We collect anonymous usage data in order to improve the extension. In order to opt-out of data collections, turn off application-wide telemetry setting in VS Code as directed by the VS Code documentation before installing the extension: https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting Our extension respects this global setting as directed by extension guidelines published by Microsoft.
+
 ## Support Resources
 
 * You could ask for help or suggest a feature by creating an issue in this repository: https://github.com/tooltitude/support/issues/new/choose
