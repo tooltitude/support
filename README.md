@@ -5,7 +5,12 @@ Tooltitude is a productivity extension for the Go programming language. It helps
 ## Code Lenses
 We have code lenses which help you be more productive
 
-### See number of references
+### Implementations
+<p>
+<img src="images/ImplLens.png" alt="see number of implementors" width="400" style="padding: 2px">
+</p>
+
+### References
 <p>
 <img src="images/RefsLens.png" alt="see number of references" width="400" style="padding: 2px">
 </p>
@@ -14,12 +19,12 @@ We have code lenses which help you be more productive
 ## Inspections
 Inspections look into your code and find potential problems
 
-### See deprecated symbols
+### Deprecated symbols
 <p>
 <img src="images/Deprecated.png" alt="see deprecated symbols" width="400" style="padding: 2px">
 </p>
 
-### See shadowed symbols
+### Shadowed symbols
 <p>
 <img src="images/Shadows.png" alt="see shadowed symbols" width="400" style="padding: 2px">
 </p>
@@ -49,6 +54,7 @@ We have more than 20 code actions (and counting). To use code action, put a care
   - Merge String Literals
   - Flip comma
   - Invert if conditions
+  - Convert else { if { to else if {
   - Unwrap else code action (return in the if-true block)
   - Iterate over collection
   - Convert raw string <-> string literal
