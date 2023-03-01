@@ -5,9 +5,19 @@ Tooltitude is a productivity extension for the Go programming language. It helps
 ## Code Lenses
 We have code lenses which help you be more productive
 
-### Implementations
+### Interface Implementations
 <p>
 <img src="images/ImplLens.png" alt="see number of implementors" width="400" style="padding: 2px">
+</p>
+
+### Interface Implemented by a Type
+<p>
+<img src="images/TypeIntfcs.png" alt="see number of implemented interfaces" width="400" style="padding: 2px">
+</p>
+
+### Interface Method Implemented by a Method
+<p>
+<img src="images/MethodIntfcs.png" alt="see number of implemented interfaces" width="400" style="padding: 2px">
 </p>
 
 ### References
