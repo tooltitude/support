@@ -10,14 +10,14 @@ We have code lenses which help you be more productive
 <img src="images/ImplLens.png" alt="see number of implementors" width="400" style="padding: 2px">
 </p>
 
-### Interface Implemented by a Type
+### Interfaces Implemented by a Type
 <p>
 <img src="images/TypeIntfcs.png" alt="see number of implemented interfaces" width="400" style="padding: 2px">
 </p>
 
 ### Interface Method Implemented by a Method
 <p>
-<img src="images/MethodIntfcs.png" alt="see number of implemented interfaces" width="400" style="padding: 2px">
+<img src="images/MethodIntfc.png" alt="see number of implemented interfaces" width="400" style="padding: 2px">
 </p>
 
 ### References
