@@ -99,7 +99,7 @@ Features with ⭐ require a subscription. Features may have limitations. Softwar
   - Run or debug main packages
   - Debug table driven tests
   - Implement interface
-  - Move declaration (for functions and methods within the same package)
+  - Move declaration (within the same package)
 - Helpers
   - ⭐ Automatic update of imports on folder moves and renames
 - Debugging
