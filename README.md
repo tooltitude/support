@@ -135,6 +135,7 @@ Features with ⭐ require a subscription. Features may have limitations. Softwar
   - ⭐ Show type methods
   - ⭐ Show package imports
   - ⭐ Move declaration
+  - ⭐ Change declaration (for functions and non interface methods)
   - Rename
   - Extract variable
   - Inline variable
