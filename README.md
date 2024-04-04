@@ -132,7 +132,7 @@ Features with ⭐ require a subscription. Features may have limitations. Softwar
   - ⭐ Show implemented interfaces/implementing types
   - ⭐ Show type methods
   - ⭐ Show package imports
-  - ⭐ Move declaration (within the same package)
+  - ⭐ Move declaration
   - Rename
   - Extract variable
   - Inline variable
