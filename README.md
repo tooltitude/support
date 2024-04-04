@@ -101,6 +101,8 @@ Features with ⭐ require a subscription. Features may have limitations. Softwar
   - Implement interface
   - Move declaration (within the same package)
   - ⭐ Move declaration (between packages)
+  - Change signature (for private functions, and non interface methods)
+  - ⭐ Change signature (for public functions, and non interface methods)
 - Helpers
   - ⭐ Automatic update of imports on folder moves and renames
 - Debugging
