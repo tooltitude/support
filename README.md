@@ -170,7 +170,7 @@ Features with ⭐ require a subscription. Features may have limitations. Softwar
   - Rewrite dot import
   - Remove unused import
   - Remove unused imports
-  - Sort imports action
+  - Sort imports
   - Merge imports
   - Generate getter/setter
   - Generate stub interface for a type
