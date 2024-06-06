@@ -105,6 +105,7 @@ Features with ⭐ require a subscription. Features may have limitations. Softwar
   - ⭐ Change signature (for public functions, and non interface methods)
 - Helpers
   - ⭐ Automatic update of imports on folder moves and renames
+  - ⭐ Automatic update of references on file moves
 - Debugging
   - ⭐ Inline values in the debugger
 - Inspections
