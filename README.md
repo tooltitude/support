@@ -111,7 +111,7 @@ Features with ⭐ require a subscription. Features may have limitations. Softwar
 - Inspections
   - Unused assignments/initializations
   - Unused symbols for files and paths
-  - ⭐ Unused symbols for workspace
+  - ⭐ Unused symbols for the workspace
   - Unreachable code
   - Unhandled errors
   - Variable shadows
