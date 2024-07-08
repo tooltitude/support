@@ -177,6 +177,7 @@ Features with ⭐ require a subscription. Features may have limitations. Softwar
   - Generate stub interface for a type
   - Move declaration up/down
   - Remove all tags
+  - Add json tag
 
 ## Data
 We collect anonymous usage data in order to improve our products. To opt-out of data collections, turn off application-wide telemetry setting in VS Code as directed by the VS Code documentation before installing the extension, or at any time after the installation: https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting Our extension respects this global setting as directed by extension guidelines published by Microsoft. You could read more about our privacy policy here: https://www.tooltitude.com/privacy
