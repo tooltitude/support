@@ -188,4 +188,4 @@ We collect anonymous usage data in order to improve our products. To opt-out of 
 
 ## Other Links
 * Visit our site: https://www.tooltitude.com/
-* Follow us on Twitter: https://twitter.com/tooltitude
+* Follow us on X: https://twitter.com/tooltitude
